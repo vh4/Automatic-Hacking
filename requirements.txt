@@ -1,0 +1,11 @@
+apt-get update
+apt-get install python-pip
+apt-get install airmon-ng
+apt-get install airodump-ng
+apt-get install aireplay-ng
+apt-get insatll crunch
+apt-get install bettercap
+apt-get install arp-scan
+apt-get install aircrack-ng
+apt-get install nmap
+
