@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+A4:12:32:F2:04:75, 2020-11-28 16:28:32, 2020-11-28 16:35:42,  1,  65, WPA2, CCMP, PSK, -27,     1822,        0,   0.  0.  0.  0,   9, tapiboong, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

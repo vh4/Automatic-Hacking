@@ -1,0 +1,12 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+EC:F0:FE:84:73:58, 2020-11-27 16:06:28, 2020-11-27 16:07:38, 11, 130, WPA2, CCMP TKIP, PSK, -73,      623,     1892,   0.  0.  0.  0,  11, Android-RKP, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+64:5A:04:5B:E7:BC, 2020-11-27 16:06:37, 2020-11-27 16:07:38, -95,      811, EC:F0:FE:84:73:58,Android-RKP
+C0:87:EB:0F:28:2B, 2020-11-27 16:06:32, 2020-11-27 16:07:35, -99,      162, EC:F0:FE:84:73:58,
+EC:D0:9F:25:1C:64, 2020-11-27 16:06:32, 2020-11-27 16:07:37, -92,      469, EC:F0:FE:84:73:58,Android-RKP
+A0:AF:BD:A4:15:32, 2020-11-27 16:06:28, 2020-11-27 16:07:30, -91,      345, EC:F0:FE:84:73:58,
+0C:98:38:2C:1A:25, 2020-11-27 16:07:21, 2020-11-27 16:07:31, -86,       55, EC:F0:FE:84:73:58,Android-RKP
+C8:FF:28:6F:B2:03, 2020-11-27 16:06:38, 2020-11-27 16:07:37, -85,      152, EC:F0:FE:84:73:58,Android-RKP
+
