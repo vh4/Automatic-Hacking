@@ -3,5 +3,5 @@
 2. spoofing/sniffing,
 3. exploitation
 4. bypass malware
-5. BruteForce
+5. BruteForce\n
 +---------------------------------------------------------------------------------------+
