@@ -48,7 +48,7 @@
 
 ### Screenshoot🚀 
 
-https://github.com/fathoniwasesojatiTelkom/AutomaticHacking/blob/main/Images/Screenshot%20from%202020-11-30%2014-10-19.png
+![alt text](https://github.com/fathoniwasesojatiTelkom/AutomaticHacking/blob/main/Images/Screenshot%20from%202020-11-30%2014-10-19.png)
 
 ## Kriptografi 🚀 
 
