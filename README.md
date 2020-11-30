@@ -1,2 +1,7 @@
 # AutomaticHacking
-tool hacking kriptografi, spoofing/sniffing,exploitation, bypass malware, BruteForce
+1. Tool hacking kriptografi
+2. spoofing/sniffing,
+3. exploitation
+4. bypass malware
+5. BruteForce
++---------------------------------------------------------------------------------------+
