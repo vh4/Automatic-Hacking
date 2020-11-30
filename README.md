@@ -1,7 +1,8 @@
 # AutomaticHacking
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 1. Tool hacking kriptografi
 2. spoofing/sniffing,
 3. exploitation
 4. bypass malware
-5. BruteForce\n
-+---------------------------------------------------------------------------------------+
+5. BruteForce
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
