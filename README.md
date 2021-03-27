@@ -9,7 +9,7 @@
 - [x] IP Scanning Local
 - [X] BruteFore
 
-### Screenshoot
+### Screenshoot Reviews 🚀
 
 ![alt text](https://github.com/fathoniwasesojatiTelkom/AutomaticHacking/blob/main/Images/Screenshot%20from%202020-11-30%2013-31-45.png)
 
@@ -22,7 +22,7 @@
 4. ./hack or
 5. bash hack
 
-### Screenshoot🚀 
+### Screenshoot Reviews 🚀
 
 ![alt text](https://github.com/fathoniwasesojatiTelkom/AutomaticHacking/blob/main/Images/Screenshot%20from%202020-11-30%2013-32-57.png)
 
@@ -36,7 +36,7 @@
 7. atau pake crunch pilih yang nomer 2  ---> minimal password : 8(kalau di WPA2) --> max password : terserah anda >= 8 (defaultnya : 8-12)
 8. selamat mencoba
 
-### Screenshoot🚀 
+### Screenshoot Reviews 🚀 
 
 ![alt text](https://github.com/fathoniwasesojatiTelkom/AutomaticHacking/blob/main/Images/Screenshot%20from%202020-11-30%2014-11-43.png)
 
